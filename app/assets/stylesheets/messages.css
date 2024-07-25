@@ -90,7 +90,7 @@
 
 /*メインエリア*/
 
-.main-area{
+.message{
   height: calc(100vh - 100px - 90px);
   width: 100%;
   background-color: #FAFAFA;
